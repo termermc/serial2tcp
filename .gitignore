@@ -26,3 +26,6 @@ build
 *.zip
 *.tar.gz
 *.rar
+
+# Application config
+config.json
