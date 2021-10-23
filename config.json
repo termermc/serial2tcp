@@ -1,7 +1,0 @@
-{
-    "tcpPort": "8080",
-    "tcpHost": "0.0.0.0",
-    "waitForConnect": false,
-    "serialPort": "/dev/ttyUSB0",
-    "serialBaud": 115200
-}
